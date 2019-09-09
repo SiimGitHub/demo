@@ -1,1 +1,4 @@
-[{"id":"2077460212","servicePointPrimaryData":[{"id":"2077460212","mainFuse":63,"phasesAndVoltage":"3X380V","cpLocationDescription":"Ostja toitekaabli kingadel alajaama 0,4kV jaotusseadmes"}],"premisePrimaryData":[{"id":"2077460247","name":"TALU","fullAddress":"","typeCode":"NONRESID"}]}]
+[{"id":"9736710153","servicePointPrimaryData":[{"id":"9736710153","mainFuse":null,"phasesAndVoltage":"3X380V","cpLocationDescription":null}],
+"premisePrimaryData":[{"id":"9736710114","name":"Korter","fullAddress":"Harju maakond, Tallinn, Vormsi tn, 6-5, 13913","typeCode":"APT"}]},{"id":"5206100695","servicePointPrimaryData":
+[{"id":"5206100695","mainFuse":25,"phasesAndVoltage":"3X380V","cpLocationDescription":"Õhuliini sisestusvisangul hoone seinal. Ostja mõõtekilp"}],
+"premisePrimaryData":[{"id":"5206100696","name":"Suvila","fullAddress":"Harju maakond, Saue vald, Laagri, Pilliroo põik, 13, 13, 76401","typeCode":"SINGLE"}]}]
